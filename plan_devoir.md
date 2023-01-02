@@ -27,3 +27,39 @@
 # Misc
 
 - [ ] nettoyer le git pour mettre un lien dans l'article
+
+
+# Répartition du travail
+
+## Julie Sucrée
+
+- Méthodologie
+- Discussion
+
+## Aurélien Sucré
+
+- Abstract
+- Introduction
+
+## Den Sucrée
+
+- Relecture du premier jet
+- Faire les figures et les tableaux
+
+## A faire ensemble
+
+- Résultats
+- Analyse
+
+# Notebook
+
+# TODO
+
+- [ ] faire glove, fastext et w2v pour pouvoir les utiliser dans les pipelines
+- [ ] faire les pipelines des classfieurs : 
+    - [x] SVM
+    - [ ] knn
+    - [ ] régression logistique
+    - [ ] naives bayes
+    - [ ] random forest
+- [ ] (faire des transformers pour sentiment analysis et theme)
